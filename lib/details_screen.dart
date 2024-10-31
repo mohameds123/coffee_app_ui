@@ -241,6 +241,7 @@ class DetailsScreen extends StatelessWidget {
           SizedBox(
             height: 16,
           ),
+
           Padding(
             padding:  EdgeInsets.symmetric(horizontal: 16),
             child: Row(
